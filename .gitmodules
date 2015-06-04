@@ -1,0 +1,3 @@
+[submodule "plugins/powerline_cakephp"]
+	path = plugins/powerline_cakephp
+	url = https://github.com/julio6114/powerline_cakephp.git
